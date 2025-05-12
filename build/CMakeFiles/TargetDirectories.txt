@@ -1,0 +1,9 @@
+/home/ali/VSCode/kmeans-img-segmentation/build/CMakeFiles/kmeans_seq.dir
+/home/ali/VSCode/kmeans-img-segmentation/build/CMakeFiles/kmeans_par.dir
+/home/ali/VSCode/kmeans-img-segmentation/build/CMakeFiles/benchmark.dir
+/home/ali/VSCode/kmeans-img-segmentation/build/CMakeFiles/edit_cache.dir
+/home/ali/VSCode/kmeans-img-segmentation/build/CMakeFiles/rebuild_cache.dir
+/home/ali/VSCode/kmeans-img-segmentation/build/CMakeFiles/list_install_components.dir
+/home/ali/VSCode/kmeans-img-segmentation/build/CMakeFiles/install.dir
+/home/ali/VSCode/kmeans-img-segmentation/build/CMakeFiles/install/local.dir
+/home/ali/VSCode/kmeans-img-segmentation/build/CMakeFiles/install/strip.dir
