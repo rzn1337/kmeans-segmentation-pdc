@@ -212,14 +212,14 @@ cv::Mat runKMeansSequential(
 
             
             static const std::vector<cv::Vec3b> CLUSTER_COLORS = {
-                {0,   0, 255},   // Red
-                {255, 0,   255}, // Purple
+                {147, 20,  255}, // Magenta
                 {0,   255, 0},   // Green
+                {255, 0,   255}, // Purple
                 {0,   255, 255}, // Yellow
+                {255, 0,   0},   // Blue
                 {255, 255, 0},   // Cyan
                 {0,   165, 255}, // Orange
-                {255, 0,   0},   // Blue
-                {147, 20,  255}, // Magenta
+                {0,   0, 255},   // Red
                 // add more if you need >8 clusters
             };
 
