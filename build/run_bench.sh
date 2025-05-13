@@ -4,7 +4,7 @@ set -e      # Exit on error
 set -o pipefail
 
 # Default parameters
-CLUSTERS=(2 4 8 16 32 64 128)
+CLUSTERS=(2 4 8 16)
 MAX_ITER=1000
 THREADS=(2 4 8 16 32 64 128 256 512 1024 2048 4096)
 CONV=0.00001
